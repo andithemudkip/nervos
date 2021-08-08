@@ -7,3 +7,7 @@
 * [Task 4](./task4)
 * [Task 5](./task5)
 * [Task 6](./task6)
+* [Task 7](./task7)
+* [Task 8](./task8)
+* [Task 9](./task9)
+* [Task 10](./task10)
