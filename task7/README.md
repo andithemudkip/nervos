@@ -10,12 +10,12 @@ https://github.com/andithemudkip/simple-nft
 
 ## txn
 ```sh
-0xfC2e2A04500Afa5348A2F359C9f73e5C2D55D1eE
+0xd45642f67ade3a4ba930b13b66630aacc555071493a5c7ade685d9f0486c6df7
 ```
 
 ## Contract Address
 ```sh
-0xd45642f67ade3a4ba930b13b66630aacc555071493a5c7ade685d9f0486c6df7
+0xfC2e2A04500Afa5348A2F359C9f73e5C2D55D1eE
 ```
 
 ## ABI
