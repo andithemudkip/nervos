@@ -2,7 +2,7 @@
 
 # Video
 
-[![IMAGE ALT TEXT](./yt-image.png)](https://www.youtube.com/watch?v=UTAlNGntlKg "Video Title")
+[![Color NFTs](./yt-image.png)](https://www.youtube.com/watch?v=UTAlNGntlKg "Color NFTs")
 # Github repository of the dApp
 https://github.com/andithemudkip/simple-nft
 
