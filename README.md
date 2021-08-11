@@ -1,7 +1,9 @@
 # Nervos Hackathon
 
-* [Task 0](https://github.com/andithemudkip/nervos_00)
-* [Task 1](https://github.com/andithemudkip/nervos01)
+Main repo for all the tasks of the Nervos Hackathon held on Gitcoin.
+
+* [Task 0](./task0)
+* [Task 1](./task1)
 * [Task 2](./task2)
 * [Task 3](./task3)
 * [Task 4](./task4)
